@@ -214,7 +214,6 @@ pyresparser
 - **Gender hardcoded:** The gender field in the prediction route is currently hardcoded to `'female'`. The form input exists but is not wired up.
 
 ---
+ As this project is built in 2023, it works on outdated tech stack and I am working on a newer version of this. Feel Free to check this out.
+ 
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
